@@ -1,15 +1,45 @@
-## Hi there 👋
+# Hi, I'm Sakthimurugan 👋
 
-**SAKTHI-MURUGAN-S/SAKTHI-MURUGAN-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Full Stack Developer | Software Developer
 
-Here are some ideas to get you started:
+I’m a BCA graduate passionate about building practical,
+user-friendly and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠️ Tech Stack
 
+**Frontend**
+HTML • CSS • JavaScript • React • Bootstrap
+
+**Backend**
+Java • Spring Boot • REST APIs
+
+**Database**
+MySQL • SQL
+
+**Tools**
+Git • GitHub • VS Code • Postman
+
+### 🚀 Featured Projects
+
+🔹 FolkFusion Store
+E-commerce web application for traditional folk dance
+costumes, instruments and accessories.
+
+🔹 My Portfolio
+Personal developer portfolio showcasing my skills,
+projects and learning journey.
+
+### 📚 Currently Learning
+
+Java Full Stack Development
+Spring Boot • React • REST API • SQL • DSA
+
+### 🎯 Career Goal
+
+Looking for opportunities where I can contribute,
+learn from experienced developers and grow as a
+professional software developer.
+
+### 📫 Connect With Me
+
+LinkedIn | GitHub | Email
